@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Everyone Change something in this line
 what up
+=======
+Everyone Change something in this line .....LIKE ADDING TEXT IN ALL CAPS
+>>>>>>> e784569c724b905a22fb2cd78e1a53be3e68ac8c
 =======
 Everyone love everybody, that's the motto
 >>>>>>> c965a87fef55e666b8907699197b64e917db825d
