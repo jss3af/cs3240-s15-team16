@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Everyone Change something in this line .....LIKE ADDING TEXT IN ALL CAPS
-=======
 Everyone love everybody, that's the motto
->>>>>>> c965a87fef55e666b8907699197b64e917db825d
